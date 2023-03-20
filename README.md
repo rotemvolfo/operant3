@@ -19,6 +19,9 @@ https://github.com/rotemvolfo/opreant/blob/master/graph/schema.graphqls
 
 https://github.com/rotemvolfo/opreant/blob/master/graph/schema.resolvers.go
 
+Table schema
+https://github.com/rotemvolfo/operant/tree/main/mysql/migrations
+
 ##### Problem 2.
 
 Let’s take the following schema:
