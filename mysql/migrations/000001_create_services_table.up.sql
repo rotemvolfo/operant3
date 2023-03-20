@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS services(
+    id INT NOT NULL UNIQUE AUTO_INCREMENT,
+    user_id VARCHAR (255) NOT NULL UNIQUE,
+    name VARCHAR (255),
+    region VARCHAR (255),
+    PRIMARY KEY (id)
+)
