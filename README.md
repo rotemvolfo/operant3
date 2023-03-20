@@ -21,6 +21,7 @@ https://github.com/rotemvolfo/operant/blob/master/graph/schema.resolvers.go
 
 Table schema
 https://github.com/rotemvolfo/operant/tree/main/mysql/migrations
+https://github.com/rotemvolfo/operant/blob/main/internal/metrics/metrics.go
 
 ##### Problem 2.
 
