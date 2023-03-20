@@ -13,11 +13,11 @@ query {
 
 ##### Schema
 
-https://github.com/rotemvolfo/opreant/blob/master/graph/schema.graphqls
+https://github.com/rotemvolfo/operant/blob/master/graph/schema.graphqls
 
 ##### Resolver functions
 
-https://github.com/rotemvolfo/opreant/blob/master/graph/schema.resolvers.go
+https://github.com/rotemvolfo/operant/blob/master/graph/schema.resolvers.go
 
 Table schema
 https://github.com/rotemvolfo/operant/tree/main/mysql/migrations
